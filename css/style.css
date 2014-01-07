@@ -1,4 +1,24 @@
 /* Put your CSS here */
+html, body {
+  background-color: #0D1C33;
+}
+h2 {
+  color: #4F9300;
+}
+
+p {
+  color: #A1D700;
+}
+
+.alert-box {
+  background-color: #4F9300;
+  border: 5px solid #2B6832;
+}
+
+#again {
+  background-color: #A1D700;
+  border: 5px solid #4F9300;
+}
 
 
 
